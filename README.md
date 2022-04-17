@@ -33,6 +33,14 @@ Since only original ratings (no retweets) that have images were needed in the da
 
 <img width="726" alt="Screen Shot 2022-04-17 at 5 30 41 PM" src="https://user-images.githubusercontent.com/90280839/163732793-4e8f9bf0-d673-4a81-8d6f-d9d4cad4448f.png">
 
+**If one looks at the boxplot below, one can see tweets of dog pictures sent in October has the highest median favorite count. This is probably because October 31st is Halloween and there are many pictures of dogs in funny costumes.**
+
+<img width="778" alt="Screen Shot 2022-04-17 at 5 33 18 PM" src="https://user-images.githubusercontent.com/90280839/163732836-cf8a032d-9894-4311-9bd6-204ac7a16a9e.png">
+
+**Despite We Rate Dogs having more than 9 million followers, most tweets have less than 30,000 favorite counts. We Rate Dogs founder says he considers a tweet viral if it has 30,000 favorite counts. We can see it is hard to for a dog picture tweet to go viral.**
+
+<img width="764" alt="Screen Shot 2022-04-17 at 5 34 43 PM" src="https://user-images.githubusercontent.com/90280839/163732863-560c4d4e-edca-4c05-98dd-708e2d5a0633.png">
+
 ## Conclusion
 
 * **From our data analysis of the We Rate Dogs account, more dog pictures are tweeted in November and December than other months. This is probably because Thanksgiving is in November and Christmas is in December.**
